@@ -1,0 +1,30 @@
+23:44:50 **** Build of configuration Debug for project hackathon ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Xilinx/finalproject_4/workspace4/top6/export/top6/sw/top6/domain_ps7_cortexa9_0/bspinclude/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Xilinx/finalproject_4/workspace4/top6/export/top6/sw/top6/domain_ps7_cortexa9_0/bspinclude/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: hackathon.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LD:/Xilinx/finalproject_4/workspace4/top6/export/top6/sw/top6/domain_ps7_cortexa9_0/bsplib/lib -o "hackathon.elf"  ./src/helloworld.o ./src/platform.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hackathon.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size hackathon.elf  |tee "hackathon.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  62303	   2580	94230640	94295523	59ed5e3	hackathon.elf
+'Finished building: hackathon.elf.size'
+' '
+
+23:44:50 Build Finished (took 728ms)
+

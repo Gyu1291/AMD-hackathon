@@ -1,0 +1,7 @@
+/*top8*/
+the_ROM_image:
+{
+  [bootloader]<top8/boot/fsbl.elf>
+   <bitstream> 
+  <elf,ps7_cortexa9_0>
+}

@@ -1,0 +1,152 @@
+20:58:30 INFO  : Registering command handlers for Vitis TCF services
+20:58:30 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\finalproject_4\workspace3\temp_xsdb_launch_script.tcl
+20:58:32 INFO  : Platform repository initialization has completed.
+20:58:32 INFO  : XSCT server has started successfully.
+20:58:32 INFO  : plnx-install-location is set to ''
+20:58:32 INFO  : Successfully done setting XSCT server connection channel  
+20:58:33 INFO  : Successfully done setting workspace for the tool. 
+20:58:33 INFO  : Successfully done query RDI_DATADIR 
+20:58:58 INFO  : Result from executing command 'getProjects': top5
+20:58:58 INFO  : Result from executing command 'getPlatforms': 
+20:58:58 INFO  : Platform 'top5' is added to custom repositories.
+20:59:03 INFO  : Platform 'top5' is added to custom repositories.
+21:00:00 INFO  : Result from executing command 'getProjects': top5
+21:00:00 INFO  : Result from executing command 'getPlatforms': top5|D:/Xilinx/finalproject_4/workspace3/top5/export/top5/top5.xpfm
+21:00:00 INFO  : Checking for BSP changes to sync application flags for project 'hackathon'...
+21:02:19 INFO  : Projects exported to 'C:\Users\soongyu\Desktop\vitis_export_archive.ide.zip'
+21:07:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:07:36 INFO  : Jtag cable 'Xilinx TUL 1234-tulA' is selected.
+21:07:36 INFO  : 'jtag frequency' command is executed.
+21:07:36 INFO  : Context for 'APU' is selected.
+21:07:36 INFO  : System reset is completed.
+21:07:39 INFO  : 'after 3000' command is executed.
+21:07:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Xilinx TUL 1234-tulA" && level==0 && jtag_device_ctx=="jsn-TUL-1234-tulA-23727093-0"}' command is executed.
+21:07:41 INFO  : FPGA configured successfully with bitstream "D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/bitstream/top5.bit"
+21:07:41 INFO  : Context for 'APU' is selected.
+21:07:41 INFO  : Hardware design and registers information is loaded from 'D:/Xilinx/finalproject_4/workspace3/top5/export/top5/hw/top5.xsa'.
+21:07:41 INFO  : 'configparams force-mem-access 1' command is executed.
+21:07:41 INFO  : Context for 'APU' is selected.
+21:07:41 INFO  : Sourcing of 'D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/psinit/ps7_init.tcl' is done.
+21:07:42 INFO  : 'ps7_init' command is executed.
+21:07:42 INFO  : 'ps7_post_config' command is executed.
+21:07:42 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+21:07:42 INFO  : The application 'D:/Xilinx/finalproject_4/workspace3/hackathon/Debug/hackathon.elf' is downloaded to processor 'ps7_cortexa9_0'.
+21:07:42 INFO  : 'configparams force-mem-access 0' command is executed.
+21:07:42 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Xilinx TUL 1234-tulA" && level==0 && jtag_device_ctx=="jsn-TUL-1234-tulA-23727093-0"}
+fpga -file D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/bitstream/top5.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw D:/Xilinx/finalproject_4/workspace3/top5/export/top5/hw/top5.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow D:/Xilinx/finalproject_4/workspace3/hackathon/Debug/hackathon.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+21:07:42 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+21:07:42 INFO  : 'con' command is executed.
+21:07:42 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+21:07:42 INFO  : Disconnected from the channel tcfchan#2.
+21:09:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:09:02 INFO  : Jtag cable 'Xilinx TUL 1234-tulA' is selected.
+21:09:02 INFO  : 'jtag frequency' command is executed.
+21:09:02 INFO  : Context for 'APU' is selected.
+21:09:02 INFO  : System reset is completed.
+21:09:05 INFO  : 'after 3000' command is executed.
+21:09:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Xilinx TUL 1234-tulA" && level==0 && jtag_device_ctx=="jsn-TUL-1234-tulA-23727093-0"}' command is executed.
+21:09:08 INFO  : FPGA configured successfully with bitstream "D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/bitstream/top5.bit"
+21:09:08 INFO  : Context for 'APU' is selected.
+21:09:08 INFO  : Hardware design and registers information is loaded from 'D:/Xilinx/finalproject_4/workspace3/top5/export/top5/hw/top5.xsa'.
+21:09:08 INFO  : 'configparams force-mem-access 1' command is executed.
+21:09:08 INFO  : Context for 'APU' is selected.
+21:09:08 INFO  : Sourcing of 'D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/psinit/ps7_init.tcl' is done.
+21:09:08 INFO  : 'ps7_init' command is executed.
+21:09:08 INFO  : 'ps7_post_config' command is executed.
+21:09:08 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+21:09:08 INFO  : The application 'D:/Xilinx/finalproject_4/workspace3/hackathon/Debug/hackathon.elf' is downloaded to processor 'ps7_cortexa9_0'.
+21:09:08 INFO  : 'configparams force-mem-access 0' command is executed.
+21:09:08 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Xilinx TUL 1234-tulA" && level==0 && jtag_device_ctx=="jsn-TUL-1234-tulA-23727093-0"}
+fpga -file D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/bitstream/top5.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw D:/Xilinx/finalproject_4/workspace3/top5/export/top5/hw/top5.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow D:/Xilinx/finalproject_4/workspace3/hackathon/Debug/hackathon.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+21:09:08 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+21:09:08 INFO  : 'con' command is executed.
+21:09:08 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+21:09:08 INFO  : Disconnected from the channel tcfchan#3.
+23:16:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:16:39 INFO  : Jtag cable 'Xilinx TUL 1234-tulA' is selected.
+23:16:39 INFO  : 'jtag frequency' command is executed.
+23:16:39 INFO  : Context for 'APU' is selected.
+23:16:39 INFO  : System reset is completed.
+23:16:42 INFO  : 'after 3000' command is executed.
+23:16:42 INFO  : 'targets -set -filter {jtag_cable_name =~ "Xilinx TUL 1234-tulA" && level==0 && jtag_device_ctx=="jsn-TUL-1234-tulA-23727093-0"}' command is executed.
+23:16:45 INFO  : FPGA configured successfully with bitstream "D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/bitstream/top5.bit"
+23:16:45 INFO  : Context for 'APU' is selected.
+23:16:45 INFO  : Hardware design and registers information is loaded from 'D:/Xilinx/finalproject_4/workspace3/top5/export/top5/hw/top5.xsa'.
+23:16:45 INFO  : 'configparams force-mem-access 1' command is executed.
+23:16:45 INFO  : Context for 'APU' is selected.
+23:16:45 INFO  : Sourcing of 'D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/psinit/ps7_init.tcl' is done.
+23:16:45 INFO  : 'ps7_init' command is executed.
+23:16:45 INFO  : 'ps7_post_config' command is executed.
+23:16:45 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+23:16:45 INFO  : The application 'D:/Xilinx/finalproject_4/workspace3/hackathon/Debug/hackathon.elf' is downloaded to processor 'ps7_cortexa9_0'.
+23:16:45 INFO  : 'configparams force-mem-access 0' command is executed.
+23:16:45 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Xilinx TUL 1234-tulA" && level==0 && jtag_device_ctx=="jsn-TUL-1234-tulA-23727093-0"}
+fpga -file D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/bitstream/top5.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw D:/Xilinx/finalproject_4/workspace3/top5/export/top5/hw/top5.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source D:/Xilinx/finalproject_4/workspace3/hackathon/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow D:/Xilinx/finalproject_4/workspace3/hackathon/Debug/hackathon.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+23:16:45 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+23:16:45 INFO  : 'con' command is executed.
+23:16:45 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+23:16:45 INFO  : Launch script is exported to file 'D:\Xilinx\finalproject_4\workspace3\.sdk\launch_scripts\single_application_debug\debugger_hackathon-default.tcl'
+23:52:40 INFO  : Disconnected from the channel tcfchan#4.

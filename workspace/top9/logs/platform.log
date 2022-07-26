@@ -1,0 +1,2490 @@
+TRACE::2022-06-21.22:55:48::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:48::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:48::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:49::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:49::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:49::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:49::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-06-21.22:55:50::SCWPlatform::Opened new HwDB with name top_0
+TRACE::2022-06-21.22:55:50::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2022-06-21.22:55:50::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top9",
+	"systems":	[{
+			"systemName":	"top9",
+			"systemDesc":	"top9",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top9"
+		}]
+}
+TRACE::2022-06-21.22:55:50::SCWPlatform::Boot application domains not present, creating them
+TRACE::2022-06-21.22:55:50::SCWDomain::checking for install qemu data   : 
+TRACE::2022-06-21.22:55:50::SCWDomain:: Using the QEMU Data from install at  : D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/
+TRACE::2022-06-21.22:55:50::SCWDomain:: Using the QEMU args  from install at  : D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt
+TRACE::2022-06-21.22:55:50::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:50::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:50::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:50::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:50::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:50::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:50::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2022-06-21.22:55:50::SCWPlatform::Generating the sources  .
+TRACE::2022-06-21.22:55:50::SCWBDomain::Generating boot domain sources.
+TRACE::2022-06-21.22:55:50::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2022-06-21.22:55:50::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:50::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:50::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:50::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:50::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-06-21.22:55:50::SCWMssOS::No sw design opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:50::SCWMssOS::mss does not exists at D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:50::SCWMssOS::Creating sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:50::SCWMssOS::Adding the swdes entry, created swdb D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:50::SCWMssOS::updating the scw layer changes to swdes at   D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:50::SCWMssOS::Writing mss at D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:50::SCWMssOS::Completed writing the mss file at D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2022-06-21.22:55:50::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-06-21.22:55:50::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-06-21.22:55:50::SCWBDomain::Completed writing the mss file at D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2022-06-21.22:55:54::SCWPlatform::Generating sources Done.
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss||
+
+KEYINFO::2022-06-21.22:55:54::SCWMssOS::Could not open the swdb for D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+KEYINFO::2022-06-21.22:55:54::SCWMssOS::Could not open the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss is not found
+
+TRACE::2022-06-21.22:55:54::SCWMssOS::Cleared the swdb table entry
+TRACE::2022-06-21.22:55:54::SCWMssOS::No sw design opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::mss exists loading the mss file  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::Opened the sw design from mss  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::Adding the swdes entry D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2022-06-21.22:55:54::SCWMssOS::updating the scw layer about changes
+TRACE::2022-06-21.22:55:54::SCWMssOS::Opened the sw design.  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:54::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:54::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:54::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:54::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:54::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top9",
+	"systems":	[{
+			"systemName":	"top9",
+			"systemDesc":	"top9",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top9",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"b78de904d31f8cac32729ce12e245ab9",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.3", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-06-21.22:55:54::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:54::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:54::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:54::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:54::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:54::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top9",
+	"systems":	[{
+			"systemName":	"top9",
+			"systemDesc":	"top9",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top9",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"b78de904d31f8cac32729ce12e245ab9",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.3", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-06-21.22:55:54::SCWDomain::checking for install qemu data   : 
+TRACE::2022-06-21.22:55:54::SCWDomain:: Using the QEMU Data from install at  : D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/
+TRACE::2022-06-21.22:55:54::SCWDomain:: Using the QEMU args  from install at  : D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:54::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:54::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:54::SCWMssOS::No sw design opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::mss does not exists at D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::Creating sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::Adding the swdes entry, created swdb D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss with des name D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::updating the scw layer changes to swdes at   D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::Writing mss at D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:54::SCWMssOS::Completed writing the mss file at D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp
+TRACE::2022-06-21.22:55:54::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-06-21.22:55:54::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-06-21.22:55:54::SCWMssOS::Completed writing the mss file at D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp
+TRACE::2022-06-21.22:55:54::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Running validate of swdbs.
+KEYINFO::2022-06-21.22:55:55::SCWMssOS::Could not open the swdb for D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+KEYINFO::2022-06-21.22:55:55::SCWMssOS::Could not open the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss is not found
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Cleared the swdb table entry
+TRACE::2022-06-21.22:55:55::SCWMssOS::Adding the swdes entry, mss present, able to open swdb D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss with des name system_0
+TRACE::2022-06-21.22:55:55::SCWMssOS::Writing the mss file completed D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top9",
+	"systems":	[{
+			"systemName":	"top9",
+			"systemDesc":	"top9",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top9",
+			"sysActiveDom":	"domain_ps7_cortexa9_0",
+			"sysDefaultDom":	"domain_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"b78de904d31f8cac32729ce12e245ab9",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.3", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"domain_ps7_cortexa9_0",
+					"domainDispName":	"domain_ps7_cortexa9_0",
+					"domainDesc":	"domain_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"bf58782eeed4a00c34ae9e08fadb4e6c",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-06-21.22:55:55::SCWPlatform::Started generating the artifacts platform top9
+TRACE::2022-06-21.22:55:55::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-06-21.22:55:55::SCWPlatform::Started generating the artifacts for system configuration top9
+LOG::2022-06-21.22:55:55::SCWSystem::Checking the domain zynq_fsbl
+LOG::2022-06-21.22:55:55::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2022-06-21.22:55:55::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2022-06-21.22:55:55::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2022-06-21.22:55:55::SCWSystem::Checking the domain domain_ps7_cortexa9_0
+LOG::2022-06-21.22:55:55::SCWSystem::Not a boot domain 
+LOG::2022-06-21.22:55:55::SCWSystem::Started Processing the domain domain_ps7_cortexa9_0
+TRACE::2022-06-21.22:55:55::SCWDomain::Generating domain artifcats
+TRACE::2022-06-21.22:55:55::SCWMssOS::Generating standalone artifcats
+TRACE::2022-06-21.22:55:55::SCWMssOS::Copying the qemu file from  D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt To D:/Xilinx/finalproject_4/workspace/top9/export/top9/sw/top9/qemu/
+TRACE::2022-06-21.22:55:55::SCWMssOS::Copying the qemu file from  D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt To D:/Xilinx/finalproject_4/workspace/top9/export/top9/sw/top9/domain_ps7_cortexa9_0/qemu/
+TRACE::2022-06-21.22:55:55::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writing the mss file at D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp
+TRACE::2022-06-21.22:55:55::SCWMssOS::Mss edits present, copying mssfile into export location D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-06-21.22:55:55::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-06-21.22:55:55::SCWDomain::Skipping the build for domain :  domain_ps7_cortexa9_0
+TRACE::2022-06-21.22:55:55::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-06-21.22:55:55::SCWMssOS::Copying to export directory.
+TRACE::2022-06-21.22:55:55::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-06-21.22:55:55::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2022-06-21.22:55:55::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2022-06-21.22:55:55::SCWSystem::Completed Processing the domain domain_ps7_cortexa9_0
+LOG::2022-06-21.22:55:55::SCWSystem::Completed Processing the sysconfig top9
+LOG::2022-06-21.22:55:55::SCWPlatform::Completed generating the artifacts for system configuration top9
+TRACE::2022-06-21.22:55:55::SCWPlatform::Started preparing the platform 
+TRACE::2022-06-21.22:55:55::SCWSystem::Writing the bif file for system config top9
+TRACE::2022-06-21.22:55:55::SCWSystem::dir created 
+TRACE::2022-06-21.22:55:55::SCWSystem::Writing the bif 
+TRACE::2022-06-21.22:55:55::SCWPlatform::Started writing the spfm file 
+TRACE::2022-06-21.22:55:55::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-06-21.22:55:55::SCWPlatform::Completed generating the platform
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top9",
+	"systems":	[{
+			"systemName":	"top9",
+			"systemDesc":	"top9",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top9",
+			"sysActiveDom":	"domain_ps7_cortexa9_0",
+			"sysDefaultDom":	"domain_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"b78de904d31f8cac32729ce12e245ab9",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.3", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"domain_ps7_cortexa9_0",
+					"domainDispName":	"domain_ps7_cortexa9_0",
+					"domainDesc":	"domain_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"bf58782eeed4a00c34ae9e08fadb4e6c",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-06-21.22:55:55::SCWPlatform::updated the xpfm file.
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top9",
+	"systems":	[{
+			"systemName":	"top9",
+			"systemDesc":	"top9",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top9",
+			"sysActiveDom":	"domain_ps7_cortexa9_0",
+			"sysDefaultDom":	"domain_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"b78de904d31f8cac32729ce12e245ab9",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.3", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"domain_ps7_cortexa9_0",
+					"domainDispName":	"domain_ps7_cortexa9_0",
+					"domainDesc":	"domain_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"bf58782eeed4a00c34ae9e08fadb4e6c",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top9",
+	"systems":	[{
+			"systemName":	"top9",
+			"systemDesc":	"top9",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top9",
+			"sysActiveDom":	"domain_ps7_cortexa9_0",
+			"sysDefaultDom":	"domain_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"b78de904d31f8cac32729ce12e245ab9",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.3", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"domain_ps7_cortexa9_0",
+					"domainDispName":	"domain_ps7_cortexa9_0",
+					"domainDesc":	"domain_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"bf58782eeed4a00c34ae9e08fadb4e6c",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-06-21.22:55:55::SCWPlatform::Started generating the artifacts platform top9
+TRACE::2022-06-21.22:55:55::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-06-21.22:55:55::SCWPlatform::Started generating the artifacts for system configuration top9
+LOG::2022-06-21.22:55:55::SCWSystem::Started Processing the domain domain_ps7_cortexa9_0
+TRACE::2022-06-21.22:55:55::SCWDomain::Generating domain artifcats
+TRACE::2022-06-21.22:55:55::SCWMssOS::Generating standalone artifcats
+TRACE::2022-06-21.22:55:55::SCWMssOS::Copying the qemu file from  D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt To D:/Xilinx/finalproject_4/workspace/top9/export/top9/sw/top9/qemu/
+TRACE::2022-06-21.22:55:55::SCWMssOS::Copying the qemu file from  D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt To D:/Xilinx/finalproject_4/workspace/top9/export/top9/sw/top9/domain_ps7_cortexa9_0/qemu/
+TRACE::2022-06-21.22:55:55::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writing the mss file at D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp
+TRACE::2022-06-21.22:55:55::SCWMssOS::Mss edits present, copying mssfile into export location D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-06-21.22:55:55::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-06-21.22:55:55::SCWDomain::Building the domain as part of full build :  domain_ps7_cortexa9_0
+TRACE::2022-06-21.22:55:55::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-06-21.22:55:55::SCWMssOS::Copying to export directory.
+TRACE::2022-06-21.22:55:55::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-06-21.22:55:55::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2022-06-21.22:55:55::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2022-06-21.22:55:55::SCWSystem::Completed Processing the domain domain_ps7_cortexa9_0
+LOG::2022-06-21.22:55:55::SCWSystem::Completed Processing the sysconfig top9
+LOG::2022-06-21.22:55:55::SCWPlatform::Completed generating the artifacts for system configuration top9
+TRACE::2022-06-21.22:55:55::SCWPlatform::Started preparing the platform 
+TRACE::2022-06-21.22:55:55::SCWSystem::Writing the bif file for system config top9
+TRACE::2022-06-21.22:55:55::SCWSystem::dir created 
+TRACE::2022-06-21.22:55:55::SCWSystem::Writing the bif 
+TRACE::2022-06-21.22:55:55::SCWPlatform::Started writing the spfm file 
+TRACE::2022-06-21.22:55:55::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-06-21.22:55:55::SCWPlatform::Completed generating the platform
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:55:55::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:55:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:55:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:55:55::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:55:55::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:55:55::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top9",
+	"systems":	[{
+			"systemName":	"top9",
+			"systemDesc":	"top9",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top9",
+			"sysActiveDom":	"domain_ps7_cortexa9_0",
+			"sysDefaultDom":	"domain_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"b78de904d31f8cac32729ce12e245ab9",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.3", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"domain_ps7_cortexa9_0",
+					"domainDispName":	"domain_ps7_cortexa9_0",
+					"domainDesc":	"domain_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"bf58782eeed4a00c34ae9e08fadb4e6c",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-06-21.22:55:55::SCWPlatform::updated the xpfm file.
+LOG::2022-06-21.22:56:58::SCWPlatform::Started generating the artifacts platform top9
+TRACE::2022-06-21.22:56:58::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-06-21.22:56:58::SCWPlatform::Started generating the artifacts for system configuration top9
+LOG::2022-06-21.22:56:58::SCWSystem::Checking the domain zynq_fsbl
+LOG::2022-06-21.22:56:58::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2022-06-21.22:56:58::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2022-06-21.22:56:58::SCWDomain::Building the domain as part of full build :  zynq_fsbl
+TRACE::2022-06-21.22:56:58::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:56:58::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:56:58::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:56:58::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:56:58::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:56:58::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:56:58::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:56:58::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:56:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:56:58::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:56:58::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:56:58::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:56:58::SCWBDomain::Completed writing the mss file at D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2022-06-21.22:56:58::SCWBDomain::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-06-21.22:56:58::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2022-06-21.22:56:58::SCWBDomain::System Command Ran  D:&  cd  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl & make 
+TRACE::2022-06-21.22:56:58::SCWBDomain::make -C zynq_fsbl_bsp
+
+TRACE::2022-06-21.22:56:58::SCWBDomain::make[1]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2022-06-21.22:56:58::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_7/src"
+
+TRACE::2022-06-21.22:56:58::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2022-06-21.22:56:58::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2022-06-21.22:56:58::SCWBDomain::ard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:58::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_
+TRACE::2022-06-21.22:56:58::SCWBDomain::dcc_v1_7/src'
+
+TRACE::2022-06-21.22:56:58::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_d
+TRACE::2022-06-21.22:56:58::SCWBDomain::cc_v1_7/src'
+
+TRACE::2022-06-21.22:56:58::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_9/src"
+
+TRACE::2022-06-21.22:56:58::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2022-06-21.22:56:58::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2022-06-21.22:56:58::SCWBDomain:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:58::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9
+TRACE::2022-06-21.22:56:58::SCWBDomain::_v2_9/src'
+
+TRACE::2022-06-21.22:56:58::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_
+TRACE::2022-06-21.22:56:58::SCWBDomain::v2_9/src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_1/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-06-21.22:56:59::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-06-21.22:56:59::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_1/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_1/sr
+TRACE::2022-06-21.22:56:59::SCWBDomain::c'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_6/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_6/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_6/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_6/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-06-21.22:56:59::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-06-21.22:56:59::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_6/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_6/sr
+TRACE::2022-06-21.22:56:59::SCWBDomain::c'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_11/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/emacps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2022-06-21.22:56:59::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2022-06-21.22:56:59::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/emacps_v3_11
+TRACE::2022-06-21.22:56:59::SCWBDomain::/src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/emacps_v3_11/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_7/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/gpiops_v3_7/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/gpiops_v3_7/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/llfifo_v5_4/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/llfifo_v5_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/llfifo_v5_4/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/llfifo_v5_4/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_7/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/qspips_v3_7/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/qspips_v3_7/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_2/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_2/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_2/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_2/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2022-06-21.22:56:59::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2022-06-21.22:56:59::SCWBDomain::startfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_
+TRACE::2022-06-21.22:56:59::SCWBDomain::2/src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_2
+TRACE::2022-06-21.22:56:59::SCWBDomain::/src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_2/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_2/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_2/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_9/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2022-06-21.22:56:59::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2022-06-21.22:56:59::SCWBDomain::tfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/sdps_v3_9/sr
+TRACE::2022-06-21.22:56:59::SCWBDomain::c'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/sdps_v3_9/src
+TRACE::2022-06-21.22:56:59::SCWBDomain::'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_2/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2022-06-21.22:56:59::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2022-06-21.22:56:59::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v
+TRACE::2022-06-21.22:56:59::SCWBDomain::7_2/src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[3]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v
+TRACE::2022-06-21.22:56:59::SCWBDomain::7_2/src/profile'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[3]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7
+TRACE::2022-06-21.22:56:59::SCWBDomain::_2/src/profile'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7
+TRACE::2022-06-21.22:56:59::SCWBDomain::_2/src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_9/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_9/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_9/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_5/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/usbps_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-06-21.22:56:59::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-06-21.22:56:59::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/usbps_v2_5/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/usbps_v2_5/sr
+TRACE::2022-06-21.22:56:59::SCWBDomain::c'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_4/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_4/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_4/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_3/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_3/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_3/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:56:59::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:56:59::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_6/
+TRACE::2022-06-21.22:56:59::SCWBDomain::src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_6/s
+TRACE::2022-06-21.22:56:59::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_7/src"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2022-06-21.22:56:59::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2022-06-21.22:56:59::SCWBDomain:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_
+TRACE::2022-06-21.22:56:59::SCWBDomain::dcc_v1_7/src'
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::"Compiling coresightps_dcc"
+
+TRACE::2022-06-21.22:56:59::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_d
+TRACE::2022-06-21.22:56:59::SCWBDomain::cc_v1_7/src'
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_9/src"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2022-06-21.22:57:00::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2022-06-21.22:57:00::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9
+TRACE::2022-06-21.22:57:00::SCWBDomain::_v2_9/src'
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::"Compiling cpu_cortexa9"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_
+TRACE::2022-06-21.22:57:00::SCWBDomain::v2_9/src'
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_1/src"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-06-21.22:57:00::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-06-21.22:57:00::SCWBDomain::iles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_1/s
+TRACE::2022-06-21.22:57:00::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::"Compiling ddrps"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_1/sr
+TRACE::2022-06-21.22:57:00::SCWBDomain::c'
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_6/src"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:00::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:00::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_6/
+TRACE::2022-06-21.22:57:00::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::"Compiling devcfg"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_6/s
+TRACE::2022-06-21.22:57:00::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_6/src"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-06-21.22:57:00::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-06-21.22:57:00::SCWBDomain::iles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_6/s
+TRACE::2022-06-21.22:57:00::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:00::SCWBDomain::"Compiling dmaps"
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_6/sr
+TRACE::2022-06-21.22:57:01::SCWBDomain::c'
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_11/src"
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::make -C ps7_cortexa9_0/libsrc/emacps_v3_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2022-06-21.22:57:01::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2022-06-21.22:57:01::SCWBDomain::tfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/emacps_v3_11
+TRACE::2022-06-21.22:57:01::SCWBDomain::/src'
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::"Compiling emacps"
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/emacps_v3_11/
+TRACE::2022-06-21.22:57:01::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_7/src"
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:01::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:01::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/gpiops_v3_7/
+TRACE::2022-06-21.22:57:01::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:01::SCWBDomain::"Compiling gpiops"
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/gpiops_v3_7/s
+TRACE::2022-06-21.22:57:02::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/llfifo_v5_4/src"
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::make -C ps7_cortexa9_0/libsrc/llfifo_v5_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:02::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:02::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/llfifo_v5_4/
+TRACE::2022-06-21.22:57:02::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::"Compiling llfifo"
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::make[3]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/llfifo_v5_4/
+TRACE::2022-06-21.22:57:02::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::make[3]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/llfifo_v5_4/s
+TRACE::2022-06-21.22:57:02::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/llfifo_v5_4/s
+TRACE::2022-06-21.22:57:02::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_7/src"
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:02::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:02::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/qspips_v3_7/
+TRACE::2022-06-21.22:57:02::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:02::SCWBDomain::"Compiling qspips"
+
+TRACE::2022-06-21.22:57:03::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/qspips_v3_7/s
+TRACE::2022-06-21.22:57:03::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:03::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_2/src"
+
+TRACE::2022-06-21.22:57:03::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:03::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:03::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:03::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_2/
+TRACE::2022-06-21.22:57:03::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:03::SCWBDomain::"Compiling scugic"
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_2/s
+TRACE::2022-06-21.22:57:04::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_2/src"
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-06-21.22:57:04::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-06-21.22:57:04::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_
+TRACE::2022-06-21.22:57:04::SCWBDomain::2/src'
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::"Compiling scutimer"
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_2
+TRACE::2022-06-21.22:57:04::SCWBDomain::/src'
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_2/src"
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:04::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:04::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_2/
+TRACE::2022-06-21.22:57:04::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::"Compiling scuwdt"
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_2/s
+TRACE::2022-06-21.22:57:04::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_9/src"
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "ARC
+TRACE::2022-06-21.22:57:04::SCWBDomain::HIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfi
+TRACE::2022-06-21.22:57:04::SCWBDomain::les -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/sdps_v3_9/sr
+TRACE::2022-06-21.22:57:04::SCWBDomain::c'
+
+TRACE::2022-06-21.22:57:04::SCWBDomain::"Compiling sdps"
+
+TRACE::2022-06-21.22:57:05::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/sdps_v3_9/src
+TRACE::2022-06-21.22:57:05::SCWBDomain::'
+
+TRACE::2022-06-21.22:57:05::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_2/src"
+
+TRACE::2022-06-21.22:57:05::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2022-06-21.22:57:05::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2022-06-21.22:57:05::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:05::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v
+TRACE::2022-06-21.22:57:05::SCWBDomain::7_2/src'
+
+TRACE::2022-06-21.22:57:05::SCWBDomain::"Compiling standalone"
+
+TRACE::2022-06-21.22:57:07::SCWBDomain::make[3]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v
+TRACE::2022-06-21.22:57:07::SCWBDomain::7_2/src/profile'
+
+TRACE::2022-06-21.22:57:07::SCWBDomain::make[3]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7
+TRACE::2022-06-21.22:57:07::SCWBDomain::_2/src/profile'
+
+TRACE::2022-06-21.22:57:07::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7
+TRACE::2022-06-21.22:57:07::SCWBDomain::_2/src'
+
+TRACE::2022-06-21.22:57:07::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_9/src"
+
+TRACE::2022-06-21.22:57:07::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:07::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:07::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:07::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_9/
+TRACE::2022-06-21.22:57:07::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:07::SCWBDomain::"Compiling uartps"
+
+TRACE::2022-06-21.22:57:08::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_9/s
+TRACE::2022-06-21.22:57:08::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:08::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_5/src"
+
+TRACE::2022-06-21.22:57:08::SCWBDomain::make -C ps7_cortexa9_0/libsrc/usbps_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-06-21.22:57:08::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-06-21.22:57:08::SCWBDomain::iles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:08::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/usbps_v2_5/s
+TRACE::2022-06-21.22:57:08::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:08::SCWBDomain::"Compiling usbps"
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/usbps_v2_5/sr
+TRACE::2022-06-21.22:57:09::SCWBDomain::c'
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_4/src"
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:09::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:09::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_4/
+TRACE::2022-06-21.22:57:09::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::"Compiling xadcps"
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_4/s
+TRACE::2022-06-21.22:57:09::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v4_3/src"
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:09::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:09::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_3/
+TRACE::2022-06-21.22:57:09::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:09::SCWBDomain::"Compiling XilFFs Library"
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_3/s
+TRACE::2022-06-21.22:57:10::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:10::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:10::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::make[2]: Entering directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_6/
+TRACE::2022-06-21.22:57:10::SCWBDomain::src'
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::make[2]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_6/s
+TRACE::2022-06-21.22:57:10::SCWBDomain::rc'
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::'Finished building libraries'
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::make[1]: Leaving directory 'D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cort
+TRACE::2022-06-21.22:57:10::SCWBDomain::exa9_0/include -I.
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_
+TRACE::2022-06-21.22:57:10::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2022-06-21.22:57:10::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:10::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c image_mover.c -o image_mover.o -Izynq
+TRACE::2022-06-21.22:57:10::SCWBDomain::_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:11::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2022-06-21.22:57:11::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:11::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_f
+TRACE::2022-06-21.22:57:11::SCWBDomain::sbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:11::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c main.c -o main.o -Izynq_fsbl_bsp/ps7_
+TRACE::2022-06-21.22:57:11::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:11::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2022-06-21.22:57:11::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:11::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_
+TRACE::2022-06-21.22:57:11::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:11::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c ps7_init.c -o ps7_init.o -Izynq_fsbl_
+TRACE::2022-06-21.22:57:11::SCWBDomain::bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:11::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_
+TRACE::2022-06-21.22:57:11::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:11::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c fsbl_handoff.S -o fsbl_handoff.o -Izy
+TRACE::2022-06-21.22:57:11::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2022-06-21.22:57:11::SCWBDomain::arm-none-eabi-gcc -o executable.elf  sd.o  nand.o  nor.o  image_mover.o  md5.o  fsbl_hooks.o  main.o  rsa.o  qspi.o  ps7_init.o
+TRACE::2022-06-21.22:57:11::SCWBDomain::  pcap.o  fsbl_handoff.o -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=
+TRACE::2022-06-21.22:57:11::SCWBDomain::hard -Wl,-build-id=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxi
+TRACE::2022-06-21.22:57:11::SCWBDomain::l,-lgcc,-lc,--end-group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group                                     -Wl,--gc-sectio
+TRACE::2022-06-21.22:57:11::SCWBDomain::ns -Lzynq_fsbl_bsp/ps7_cortexa9_0/lib -L./ -Tlscript.ld
+
+LOG::2022-06-21.22:57:11::SCWSystem::Checking the domain domain_ps7_cortexa9_0
+LOG::2022-06-21.22:57:11::SCWSystem::Not a boot domain 
+LOG::2022-06-21.22:57:11::SCWSystem::Started Processing the domain domain_ps7_cortexa9_0
+TRACE::2022-06-21.22:57:11::SCWDomain::Generating domain artifcats
+TRACE::2022-06-21.22:57:11::SCWMssOS::Generating standalone artifcats
+TRACE::2022-06-21.22:57:11::SCWMssOS::Copying the qemu file from  D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt To D:/Xilinx/finalproject_4/workspace/top9/export/top9/sw/top9/qemu/
+TRACE::2022-06-21.22:57:11::SCWMssOS::Copying the qemu file from  D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt To D:/Xilinx/finalproject_4/workspace/top9/export/top9/sw/top9/domain_ps7_cortexa9_0/qemu/
+TRACE::2022-06-21.22:57:11::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-06-21.22:57:11::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:11::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:11::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:11::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:57:11::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:11::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:57:11::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:57:11::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:57:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:57:11::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:11::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:57:11::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:11::SCWMssOS::Completed writing the mss file at D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp
+TRACE::2022-06-21.22:57:11::SCWMssOS::Mss edits present, copying mssfile into export location D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:11::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-06-21.22:57:11::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-06-21.22:57:11::SCWDomain::Building the domain as part of full build :  domain_ps7_cortexa9_0
+TRACE::2022-06-21.22:57:11::SCWMssOS::doing bsp build ... 
+TRACE::2022-06-21.22:57:11::SCWMssOS::System Command Ran  D: & cd  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp & make 
+TRACE::2022-06-21.22:57:11::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_7/src"
+
+TRACE::2022-06-21.22:57:11::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2022-06-21.22:57:11::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2022-06-21.22:57:11::SCWMssOS::ard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:11::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_9/src"
+
+TRACE::2022-06-21.22:57:11::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2022-06-21.22:57:11::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2022-06-21.22:57:11::SCWMssOS:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:11::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_1/src"
+
+TRACE::2022-06-21.22:57:11::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-06-21.22:57:11::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-06-21.22:57:11::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_6/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:57:12::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:57:12::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_6/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-06-21.22:57:12::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-06-21.22:57:12::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_11/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/emacps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2022-06-21.22:57:12::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2022-06-21.22:57:12::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_7/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:57:12::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:57:12::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/llfifo_v5_4/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/llfifo_v5_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:57:12::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:57:12::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_7/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:57:12::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:57:12::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_2/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:57:12::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:57:12::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_2/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2022-06-21.22:57:12::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2022-06-21.22:57:12::SCWMssOS::startfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_2/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:57:12::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:57:12::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_9/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2022-06-21.22:57:12::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2022-06-21.22:57:12::SCWMssOS::tfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_2/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2022-06-21.22:57:12::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2022-06-21.22:57:12::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_9/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:57:12::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:57:12::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_5/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/usbps_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-06-21.22:57:12::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-06-21.22:57:12::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_4/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-06-21.22:57:12::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-06-21.22:57:12::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_7/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2022-06-21.22:57:12::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2022-06-21.22:57:12::SCWMssOS:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Compiling coresightps_dcc"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_9/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2022-06-21.22:57:12::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2022-06-21.22:57:12::SCWMssOS::ostartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Compiling cpu_cortexa9"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_1/src"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-06-21.22:57:12::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-06-21.22:57:12::SCWMssOS::iles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:12::SCWMssOS::"Compiling ddrps"
+
+TRACE::2022-06-21.22:57:13::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_6/src"
+
+TRACE::2022-06-21.22:57:13::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:13::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:13::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:13::SCWMssOS::"Compiling devcfg"
+
+TRACE::2022-06-21.22:57:13::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_6/src"
+
+TRACE::2022-06-21.22:57:13::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-06-21.22:57:13::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-06-21.22:57:13::SCWMssOS::iles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:13::SCWMssOS::"Compiling dmaps"
+
+TRACE::2022-06-21.22:57:14::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_11/src"
+
+TRACE::2022-06-21.22:57:14::SCWMssOS::make -C ps7_cortexa9_0/libsrc/emacps_v3_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2022-06-21.22:57:14::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2022-06-21.22:57:14::SCWMssOS::tfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:14::SCWMssOS::"Compiling emacps"
+
+TRACE::2022-06-21.22:57:14::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_7/src"
+
+TRACE::2022-06-21.22:57:14::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:14::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:14::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:14::SCWMssOS::"Compiling gpiops"
+
+TRACE::2022-06-21.22:57:15::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/llfifo_v5_4/src"
+
+TRACE::2022-06-21.22:57:15::SCWMssOS::make -C ps7_cortexa9_0/libsrc/llfifo_v5_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:15::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:15::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:15::SCWMssOS::"Compiling llfifo"
+
+TRACE::2022-06-21.22:57:15::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_7/src"
+
+TRACE::2022-06-21.22:57:15::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:15::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:15::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:15::SCWMssOS::"Compiling qspips"
+
+TRACE::2022-06-21.22:57:16::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_2/src"
+
+TRACE::2022-06-21.22:57:16::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:16::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:16::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:16::SCWMssOS::"Compiling scugic"
+
+TRACE::2022-06-21.22:57:17::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_2/src"
+
+TRACE::2022-06-21.22:57:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-06-21.22:57:17::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-06-21.22:57:17::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:17::SCWMssOS::"Compiling scutimer"
+
+TRACE::2022-06-21.22:57:17::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_2/src"
+
+TRACE::2022-06-21.22:57:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:17::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:17::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:17::SCWMssOS::"Compiling scuwdt"
+
+TRACE::2022-06-21.22:57:17::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_9/src"
+
+TRACE::2022-06-21.22:57:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "ARC
+TRACE::2022-06-21.22:57:17::SCWMssOS::HIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfi
+TRACE::2022-06-21.22:57:17::SCWMssOS::les -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:17::SCWMssOS::"Compiling sdps"
+
+TRACE::2022-06-21.22:57:18::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_2/src"
+
+TRACE::2022-06-21.22:57:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2022-06-21.22:57:18::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2022-06-21.22:57:18::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:18::SCWMssOS::"Compiling standalone"
+
+TRACE::2022-06-21.22:57:21::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_9/src"
+
+TRACE::2022-06-21.22:57:21::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:21::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:21::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:21::SCWMssOS::"Compiling uartps"
+
+TRACE::2022-06-21.22:57:22::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_5/src"
+
+TRACE::2022-06-21.22:57:22::SCWMssOS::make -C ps7_cortexa9_0/libsrc/usbps_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-06-21.22:57:22::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-06-21.22:57:22::SCWMssOS::iles -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:22::SCWMssOS::"Compiling usbps"
+
+TRACE::2022-06-21.22:57:22::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_4/src"
+
+TRACE::2022-06-21.22:57:22::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-06-21.22:57:22::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-06-21.22:57:22::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-06-21.22:57:22::SCWMssOS::"Compiling xadcps"
+
+TRACE::2022-06-21.22:57:23::SCWMssOS::'Finished building libraries'
+
+TRACE::2022-06-21.22:57:23::SCWMssOS::Copying to export directory.
+TRACE::2022-06-21.22:57:23::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-06-21.22:57:23::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-06-21.22:57:23::SCWSystem::Completed Processing the domain domain_ps7_cortexa9_0
+LOG::2022-06-21.22:57:23::SCWSystem::Completed Processing the sysconfig top9
+LOG::2022-06-21.22:57:23::SCWPlatform::Completed generating the artifacts for system configuration top9
+TRACE::2022-06-21.22:57:23::SCWPlatform::Started preparing the platform 
+TRACE::2022-06-21.22:57:23::SCWSystem::Writing the bif file for system config top9
+TRACE::2022-06-21.22:57:23::SCWSystem::dir created 
+TRACE::2022-06-21.22:57:23::SCWSystem::Writing the bif 
+TRACE::2022-06-21.22:57:23::SCWPlatform::Started writing the spfm file 
+TRACE::2022-06-21.22:57:23::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-06-21.22:57:23::SCWPlatform::Completed generating the platform
+TRACE::2022-06-21.22:57:23::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:57:23::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:57:23::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:57:23::SCWMssOS::Saving the mss changes D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-21.22:57:23::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-21.22:57:23::SCWMssOS::Commit changes completed.
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:57:23::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:57:23::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:57:23::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:57:23::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:57:23::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:57:23::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:57:23::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:57:23::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:57:23::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:57:23::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:57:23::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:57:23::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWWriter::formatted JSON is {
+	"platformName":	"top9",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top9",
+	"platHandOff":	"D:/Xilinx/finalproject_4/top9.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top9.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top9",
+	"systems":	[{
+			"systemName":	"top9",
+			"systemDesc":	"top9",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top9",
+			"sysActiveDom":	"domain_ps7_cortexa9_0",
+			"sysDefaultDom":	"domain_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"b78de904d31f8cac32729ce12e245ab9",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.3", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"domain_ps7_cortexa9_0",
+					"domainDispName":	"domain_ps7_cortexa9_0",
+					"domainDesc":	"domain_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"D:/Xilinx/Vitis/2020.1/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"bf58782eeed4a00c34ae9e08fadb4e6c",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-06-21.22:57:23::SCWPlatform::updated the xpfm file.
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to open the hw design at D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA given D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA absoulate path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform::DSA directory D:/Xilinx/finalproject_4/workspace/top9/hw
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Platform Path D:/Xilinx/finalproject_4/workspace/top9/hw/top9.xsa
+TRACE::2022-06-21.22:57:23::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Trying to set the existing hwdb with name top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Opened existing hwdb top_0
+TRACE::2022-06-21.22:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-21.22:57:23::SCWMssOS::Checking the sw design at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-06-21.22:57:23::SCWMssOS::DEBUG:  swdes dump  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss|system_0||
+D:/Xilinx/finalproject_4/workspace/top9/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-06-21.22:57:23::SCWMssOS::Sw design exists and opened at  D:/Xilinx/finalproject_4/workspace/top9/ps7_cortexa9_0/domain_ps7_cortexa9_0/bsp/system.mss
